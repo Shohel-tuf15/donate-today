@@ -1,5 +1,17 @@
 .top-banar h1{
-    font-size: 50px;
+    font-size: 70px;
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    padding-top: 20px;
+}
+.top-banar p{
+    font-size: 20px;
+    width: 40%;
+    margin: auto;
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 60px;
 }
 .top-banar{
     background-image: url(images/220628180819-01-bangladesh-flood-relief.jpg);
@@ -12,7 +24,7 @@
     background-position: center;
     background-repeat: no-repeat;
     margin: auto;
-}
+    }
 .donate-tomato{
     text-decoration: none;
     padding: 18px;
